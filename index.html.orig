@@ -4,11 +4,18 @@
     <meta charset='utf-8'>
     <button>Кнопка 1</button>
     <button>Кнопка 2</button>
+    <button>Кнопка 3</button>
+    <button>Кнопка 4</button>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Мы изменили заголовок</title>
+<<<<<<< HEAD
+    <title>Другой заголовок</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <script src='js/jquery-3.6.0.min.js'></script>
     <script src='js/allscripts.js'></script>
+=======
+    <title>Мы изменили заголовок</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+>>>>>>> basket-delivery-options
 </head>
 <body>
     <header>
